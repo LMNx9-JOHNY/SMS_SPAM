@@ -1,8 +1,8 @@
 - 💥 Tool - LMNx9 SMS Spam
-- 💥 Update Version - v7.0 armv64
+- 💥 Update Version - v8.0 armv64
 - 💥 100% Safe - Super Fast Working
 - 💥 All Bug Fixed  & New Features Added
-- 💥 1 Amount Can Spam Up To 60+ Api's
+- 💥 1 Amount Can Spam Up To 50+ Api's
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/SMS_SPAM/refs/heads/main/Spam_v7.png)
 # Installation :
     apt update && upgrade
