@@ -3,6 +3,9 @@
 - 💥 100% Safe - Super Fast Working
 - 💥 All Bug Fixed  & New Features Added
 - 💥 1 Amount Can Spam Up To 50+ Api's
+
+- DEVELOPER : [DARK LMNx9](https://t.me/x_LMNx9)
+  
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/SMS_SPAM/refs/heads/main/Spam_v7.png)
 # Installation :
     apt update && upgrade
