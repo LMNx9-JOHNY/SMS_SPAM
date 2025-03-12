@@ -10,6 +10,6 @@
     git clone --depth=1 https://github.com/LMNx9-JOHNY/SMS_SPAM
     cd SMS_SPAM
     chmod +x *
-    export X="LMNx9_SMS_SPAM_V7_D6X37FJO52FHI5"
-    python Spam_v7.py
+    export X="LMNx9_SMS_SPAM_V8_L6X37F4O52FHX5"
+    python SMS_Spam_v8.py
 #  [JOIN TELEGRAM](https://t.me/TEAM_LMNx9)
